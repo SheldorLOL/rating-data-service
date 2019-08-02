@@ -25,7 +25,7 @@ public class RatingController {
                 new Rating("1", 5),
                 new Rating("2", 4)
         );
-
+;;;;
         UserRating userRating = new UserRating();
         userRating.setUserRating(ratings);
 
